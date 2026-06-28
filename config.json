@@ -1,0 +1,9 @@
+{
+    "model": "RealESRGAN_x4plus",
+    "quality": "Ultra",
+    "target_resolution": 7680,
+    "dpi": 300,
+    "keep_alpha": true,
+    "use_gpu": true,
+    "threads": 2
+}
