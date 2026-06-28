@@ -1,0 +1,8 @@
+PySide6
+torch
+torchvision
+opencv-python
+numpy
+Pillow
+realesrgan
+pyinstaller
